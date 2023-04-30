@@ -1,0 +1,20 @@
+# OS X randomness
+.DS_Store
+
+*.asv
+
+# build products
+build/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Vim swap files
+.*.sw*
+
+# gradle
+.gradle/
+.gradletasknamecache
+local.properties
